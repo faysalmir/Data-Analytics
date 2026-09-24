@@ -1,0 +1,6 @@
+pandas
+psxdata
+openpyxl
+jupyter
+matplotlib
+numpy
